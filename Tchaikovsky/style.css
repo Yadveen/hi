@@ -1,0 +1,68 @@
+body {
+	background-image: url(images/71cd9a0deb20889a85b3f2b533413224.png);
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-right: 10%;
+    width: 20%;
+    border: 2px solid #FFFFFF;
+    box-shadow: 20px 20px 30px #000000;
+    float: right;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+	margin-top: 7%;
+	float: right;
+}
+
+.maininfo {
+	width: 45%;
+	margin-left: 9%;
+	margin-top: 3%;
+	margin-bottom: 0.5%;
+	padding: 5px;
+	font-size: 17.5px;
+	font-family: "Lucida Fax", serif;
+	letter-spacing: 0.1px;
+	line-height: 28px;
+	float: left;
+}
+
+.list {
+	margin-left: 10%;
+	font-style: italic;
+}
+
+ .audio {
+	width: 1%;
+	margin-left: 9%; 
+ }
+
+.subtitles {
+	width: 45%;
+	margin-left: 9%;
+	border: 1px solid black;
+	background-color: #C7C5C3;
+	box-shadow: 20px 20px 30px #000000;
+	float: left;
+}
+
+.speech {
+	background-color: #EDEDED;
+}
+
+#name {
+	margin-bottom: 50px;
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #C7C7C7;
+	border: 1px solid black;
+	font-family: 'Old Standard TT', serif;
+	text-align: center;
+	box-shadow: 7px 7px 20px #000000;
+}
